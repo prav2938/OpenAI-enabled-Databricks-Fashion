@@ -1,0 +1,5 @@
+pyspark
+pyyaml
+pytest
+pytest-cov
+scikit-learn
