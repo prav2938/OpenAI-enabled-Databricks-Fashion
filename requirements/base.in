@@ -5,3 +5,4 @@ openai
 fastapi
 pyarrow
 databricks-sql-connector
+pyspark-ai[all]

@@ -22,3 +22,5 @@ class DatabricksConnection(ABC):
     @abstractmethod
     def execute_query(self, query):
         pass
+    
+    
